@@ -15,7 +15,7 @@ dotnet run
 <img width="602" alt="image" src="https://user-images.githubusercontent.com/7804481/173201476-312254bb-ae47-477b-b135-c92b525ddb6f.png">
 
 4. Once all will be set give the request using postman or insomnia
-<img width="559" alt="image" src="https://user-images.githubusercontent.com/7804481/173201495-af366933-99bb-4fb3-a5b1-bddc16a3b83c.png">
+![image](https://user-images.githubusercontent.com/7804481/173201539-8bd66463-70f3-421b-b8b9-50d3f5a9be89.png)
 
 5. Then Go to the consumer IDE. You can see the message debug editor.
 ![image](https://user-images.githubusercontent.com/7804481/173201513-4eb8b417-1075-40a4-acab-a342b02793c3.png)
