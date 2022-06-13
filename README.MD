@@ -1,5 +1,6 @@
 1. open cmd. Naviagete to docker file and run
-docker-compose
+
+docker-compose up
 <img width="341" alt="image" src="https://user-images.githubusercontent.com/7804481/173201357-a82d1fdb-a958-4982-872d-7461564a0943.png">
 
 You can see the docker is in running state as below.
